@@ -23,7 +23,7 @@ I am a second-year **CSE (AIML)** student at **Theem College of Engineering** de
 I am currently bridging the gap between training a model and making it a functional product:
 
 * 🤖 **AI / Machine Learning Basics:** Deepening my understanding of supervised learning, feature engineering, and predictive accuracy (currently refining my **Sonar Prediction** model).
-* 🚀 **Model Deployment (The Slow Grind 😄):** Learning how to take local models (like `.pkl` files) and turn them into working web services that others can actually use.
+* 🚀 **Model Deployment:** Learning how to take local models (like `.pkl` files) and turn them into working web services that others can actually use.
 
 ---
 
