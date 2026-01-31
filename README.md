@@ -8,14 +8,14 @@ I am a second-year **CSE (AIML)** student at **Theem College of Engineering** de
 
 ## 🛠️ Tech I Use
 
-### Languages
-![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-D22B2B?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white)
+### 🔴 Languages
+![Python](https://img.shields.io/badge/Python-D22B2B?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-D22B2B?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-D22B2B?style=flat&logo=javascript&logoColor=white)
 
-### AI & Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E34234?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-880808?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-9B111E?style=for-the-badge&logo=numpy&logoColor=white)
+### 🔴 AI & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-D22B2B?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-D22B2B?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-D22B2B?style=flat&logo=numpy&logoColor=white)
 
-### Web Development
-![React](https://img.shields.io/badge/React-EE4B2B?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-800000?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-A52A2A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🔴 Web Development
+![React](https://img.shields.io/badge/React-D22B2B?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-D22B2B?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D22B2B?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
