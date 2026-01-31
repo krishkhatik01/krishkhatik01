@@ -1,35 +1,40 @@
- # Hi, I'm Krish Khatik 👋
+# Hi, I'm Krish Khatik 👋
 
-### CSE (AIML) Student · Web Dev · AI Enthusiast
+### 🤖 CSE (AIML) Student | Machine Learning Engineer in Training
 
-Hey! I'm Krish, a CSE (AIML) student at Theem College of Engineering who enjoys building intelligent systems and full-stack applications. Most of my time goes into **Machine Learning, React, and Node.js**.
+I am a second-year **CSE (AIML)** student at **Theem College of Engineering** dedicated to building intelligent systems and scalable full-stack applications. My primary focus is on the end-to-end lifecycle of **Machine Learning**—from data preprocessing to functional deployment.
 
 ---
 
-## Tech I Use
+## 🛠️ Tech I Use
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-D22B2B?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### AI & Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E34234?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-880808?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-9B111E?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-EE4B2B?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-800000?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-A52A2A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## Projects
-
-* **[TREW_APP](https://github.com/krishkhatik01/TREW_APP)**
-    Full-stack MERN application with secure OTP authentication and Redux state management.
-* **[Rock-VS-Mine-Model](https://github.com/krishkhatik01/Rock-VS-Mine-Model)**
-    Machine learning system using Logistic Regression to classify sonar signals for maritime safety.
-
----
-
-##  Currently Learning
-I am bridging the gap between training a model and making it a functional product:
+## 📚 Currently Learning
+I am currently bridging the gap between training a model and making it a functional product:
 
 * 🤖 **AI / Machine Learning Basics:** Deepening my understanding of supervised learning, feature engineering, and predictive accuracy (currently refining my **Sonar Prediction** model).
 * 🚀 **Model Deployment (The Slow Grind 😄):** Learning how to take local models (like `.pkl` files) and turn them into working web services that others can actually use.
+
+---
+
+## 🚀 Featured Projects
+
+* **[Rock-VS-Mine-Model](https://github.com/krishkhatik01/Rock-VS-Mine-Model)**
+    Machine learning system using **Logistic Regression** to classify sonar signals for maritime safety.
+* **[TREW_APP](https://github.com/krishkhatik01/TREW_APP)**
+    Full-stack **MERN** application featuring secure OTP authentication and Redux state management.
+
+---
+
+## 📊 GitHub Stats
+![Krish's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=krishkhatik01&show_icons=true&theme=red&hide_border=true)
