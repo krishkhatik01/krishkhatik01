@@ -1,4 +1,4 @@
-                                                                                    # Hi, I'm Krish Khatik 👋
+ # Hi, I'm Krish Khatik 👋
 
 ### CSE (AIML) Student · Web Dev · AI Enthusiast
 
