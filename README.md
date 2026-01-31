@@ -8,13 +8,13 @@ I am a second-year **CSE (AIML)** student at **University Of Mumbai** dedicated 
 
 ## Tech I Use
 
-### 🔴 Machine Learning & Data Science
+### Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-D22B2B?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-D22B2B?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-D22B2B?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-D22B2B?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-D22B2B?style=flat&logo=matplotlib&logoColor=white)
 
-### 🔴 Web Development (Full-Stack)
+### Web Development (Full-Stack)
 ![React](https://img.shields.io/badge/React-D22B2B?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-D22B2B?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-D22B2B?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-D22B2B?style=flat&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D22B2B?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🔴 Tools & Core Languages
+### Tools & Core Languages
 ![Git](https://img.shields.io/badge/Git-D22B2B?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-D22B2B?style=flat&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/Java-D22B2B?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-D22B2B?style=flat&logo=javascript&logoColor=white) ![Deployment](https://img.shields.io/badge/Model_Deployment-D22B2B?style=flat&logo=rocket&logoColor=white)
 
 ---
