@@ -28,5 +28,7 @@ Hey! I'm Krish, a CSE (AIML) student at Theem College of Engineering who enjoys 
 
 ---
 
-## GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkhatik01&show_icons=true&theme=radical)
+
+## 📊 GitHub Stats
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkhatik01&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishkhatik01&layout=compact&theme=vision-friendly-dark)
