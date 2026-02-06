@@ -31,7 +31,7 @@ I am currently bridging the gap between training a model and making it a functio
 
 * **[Rock-VS-Mine-Model](https://github.com/krishkhatik01/Rock-VS-Mine-Model)**
     Machine learning system using **Logistic Regression** to classify sonar signals for maritime safety.
-* **[TREW_APP](https://github.com/krishkhatik01/TREW_APP)**
+* **[TREW](https://github.com/krishkhatik01/TREW_APP)**
     Full-stack **MERN** application featuring secure OTP authentication and Redux state management.
 
 ---
