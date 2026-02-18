@@ -35,6 +35,7 @@ I am currently bridging the gap between training a model and making it a functio
     Full-stack **MERN** application featuring secure OTP authentication and Redux state management.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=krishkhatik01&color=blue)
 
 ## GitHub Stats
 ![Krish's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=krishkhatik01&show_icons=true&theme=red&hide_border=true)
