@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/krishkhatik01/krishkhatik01/main/banner.gif)
+![banner](https://raw.githubusercontent.com/krishkhatik01/krishkhatik01/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
 # Krish Khatik
 
