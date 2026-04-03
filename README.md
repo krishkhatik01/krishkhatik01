@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/krishkhatik01/krishkhatik01/main/banner.gif)
+
 # Krish Khatik
 
 2nd year CSE (AIML) · University of Mumbai
