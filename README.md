@@ -2,7 +2,7 @@
 
 # Krish Khatik
 
-2nd year CSE (AIML) · University of Mumbai
+3rd year CSE (AIML) · University of Mumbai
 
 still figuring it out — but i build things while doing it.
 
@@ -14,8 +14,8 @@ still figuring it out — but i build things while doing it.
 medical AI · detects diabetic retinopathy, cataracts, jaundice
 React/Vite · Context API · Recharts · PDF reports
 
-🪨 **Rock VS Mine**
-sonar signal classifier · Logistic Regression
+🪨 **INVOICE_INTEL**
+Invoice processing
 
 ---
 
